@@ -17,3 +17,6 @@ This project is an agent-based traffic simulation built in NetLogo. Cars travel 
 2. Click `setup`
 3. Click `go`
 4. Adjust sliders such as `traffic`, `num-lights`, `cycle-length`, and `green-fraction`
+
+## Sample Model Run Through 
+![SciProgFinalProjectGIF](https://github.com/user-attachments/assets/33467386-c655-4228-a2f4-4f129a1fbaea)
