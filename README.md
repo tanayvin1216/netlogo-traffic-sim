@@ -20,3 +20,6 @@ This project is an agent-based traffic simulation built in NetLogo. Cars travel 
 
 ## Sample Model Run Through 
 ![SciProgFinalProjectGIF](https://github.com/user-attachments/assets/33467386-c655-4228-a2f4-4f129a1fbaea)
+
+## Future Work
+This model could be expanded to explore how individual human behaviors scale into larger societal outcomes, such as traffic congestion, evacuation flow, or emergency response. Simulations like this provide a low risk way to test assumptions and interventions before applying them in real world settings, making them useful tools for understanding and managing complex social systems.
